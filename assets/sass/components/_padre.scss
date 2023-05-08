@@ -1,0 +1,23 @@
+.padreFlex{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    width: 500px;
+    height: 500px;
+    background-color: $colorPadreFlex;
+}
+.padreFelx__hijoflex1{
+    width: 100px;
+    height: 100px;
+    background-color: yellowgreen;
+}
+.padreFelx__hijoflex2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(106, 160, 211);
+}
+.padreFelx__hijoflex3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(72, 77, 82);
+}
